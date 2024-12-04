@@ -1,8 +1,19 @@
-# React + Vite
+## React Course - Beginner's Tutorial for React JavaScript Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is based on the [course provided by freeCodeCamp and taught by Bob Ziroll.](https://www.youtube.com/watch?v=x4rFhThSX04)
 
-Currently, two official plugins are available:
+[It is also available with interactive exercises in Scrimba.](https://scrimba.com/learn-react-c0e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img title="cover" alt="cover" height = "200" src="./preview.png">
+
+All the files developed along are stored [here](https://github.com/rebecaaras/fcc-typescript-course).
+
+⭐️ Course Contents ⭐️
+- 1 Static Pages
+- 2 Data-Driven React
+- 3 React State
+- 4 Side Effects
+- 5 Capstone Project #1 - Tenzies
+- 6 Capstone Project #2 - Endgame
+
+
