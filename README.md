@@ -6,7 +6,7 @@ This project is based on the [course provided by freeCodeCamp and taught by Bob 
 
 <img title="cover" alt="cover" height = "200" src="./preview.png">
 
-All the files developed along are stored [here](https://github.com/rebecaaras/fcc-typescript-course).
+All the files developed along are stored [here](https://github.com/rebecaaras/fcc-react-beginner-course).
 
 ⭐️ Course Contents ⭐️
 - 1 Static Pages
