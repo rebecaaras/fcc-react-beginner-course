@@ -10,6 +10,7 @@ All the files developed along are stored [here](https://github.com/rebecaaras/fc
 
 ⭐️ Course Contents ⭐️
 - 1 Static Pages
+    Project 1: [React facts static page](https://github.com/rebecaaras/react-facts-page)
 - 2 Data-Driven React
 - 3 React State
 - 4 Side Effects
